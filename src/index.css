@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root {
+  --main-color: #d10a11;
+  --hover-color: #b00c0f;
+  --second-color: #212121;
+  --gray-text: rgb(104, 104, 104);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Rubik", sans-serif;
+  scroll-behavior: smooth;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+.top-space {
+  margin-top: 40px;
+}
+
+.paddings {
+  padding: 1.5rem;
+}
+
+.innerWidth {
+  width: 100%;
+}
