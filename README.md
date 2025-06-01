@@ -1,75 +1,55 @@
-<<<<<<< HEAD
-# NewEast-HomePage
-This project is a complete redesign and revamp of the official NewEast website with a strong focus on improving design, usability, and overall user experience.
-=======
-# Getting Started with Create React App
+# 🛠️ NewEast Website Revamp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A complete redesign and rebuild of the official [NewEast website](https://neweast.ae/), focused on modernizing the design and significantly improving the user experience and performance.
 
-## Available Scripts
+🔗 **Live Preview**: [https://neweast.pages.dev](https://neweast.pages.dev)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Project Objective
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The main goal of this project is to revamp the existing NewEast website by:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Improving the overall **visual design**
+- Enhancing **user experience (UX)**
+- Ensuring **mobile responsiveness**
+- Optimizing for **performance** and **accessibility**
+- Adopting a **modern development stack** using React
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ✨ What's New?
 
-### `npm run build`
+- ✅ Sleek and modern UI redesign
+- ✅ Simplified and intuitive navigation
+- ✅ Improved accessibility and performance
+- ✅ Responsive design across devices
+- ✅ Clean, scalable React codebase
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🧪 Technologies Used
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [React.js](https://reactjs.org/)
+- HTML5 / CSS3
+- CSS Modules
+- [Vite](https://vitejs.dev/) *(or Create React App if applicable)*
+- Git & GitHub
+- [Cloudflare Pages](https://pages.cloudflare.com/) for deployment
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🖥️ How to Run Locally
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+# Clone the repo
+git clone https://github.com/<your-username>/<repo-name>.git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Navigate into the project directory
+cd neweast-website
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Install dependencies
+npm install
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> c8002fc (first commit)
+# Start the development server
+npm run dev  # or `npm start` if using CRA
