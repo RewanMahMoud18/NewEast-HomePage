@@ -6,7 +6,7 @@ A complete redesign and rebuild of the official [NewEast website](https://neweas
 
 ---
 
-## 🚀 Project Objective
+##  Project Objective
 
 The main goal of this project is to revamp the existing NewEast website by:
 
@@ -18,7 +18,7 @@ The main goal of this project is to revamp the existing NewEast website by:
 
 ---
 
-## ✨ What's New?
+##  What's New?
 
 - ✅ Sleek and modern UI redesign
 - ✅ Simplified and intuitive navigation
@@ -33,7 +33,6 @@ The main goal of this project is to revamp the existing NewEast website by:
 - [React.js](https://reactjs.org/)
 - HTML5 / CSS3
 - CSS Modules
-- [Vite](https://vitejs.dev/) *(or Create React App if applicable)*
 - Git & GitHub
 - [Cloudflare Pages](https://pages.cloudflare.com/) for deployment
 
