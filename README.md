@@ -30,7 +30,7 @@ The main goal of this project is to revamp the existing NewEast website by:
 
 ## 🧪 Technologies Used
 
-- [React.js](https://reactjs.org/)
+- React.js
 - HTML5 / CSS3
 - CSS Modules
 - Git & GitHub
